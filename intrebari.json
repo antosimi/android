@@ -1,0 +1,22 @@
+[{
+	"Text": "Cate zile sunt intr-o saptamana?",
+	"Raspuns1": "6",
+	"Raspuns2": "3",
+	"Raspuns3": "7",
+	"Raspuns4": "1",
+	"RaspunsCorect": "7"
+}, {
+	"Text": "Care este capitala Romaniei?",
+	"Raspuns1": "Viena",
+	"Raspuns2": "Paris",
+	"Raspuns3": "Nu exista",
+	"Raspuns4": "Bucuresti",
+	"RaspunsCorect": "Bucuresti"
+}, {
+	"Text": "In ce an a fost lansat satelitul Sputnik?",
+	"Raspuns1": "1957",
+	"Raspuns2": "1999",
+	"Raspuns3": "1969",
+	"Raspuns4": "1900",
+	"RaspunsCorect": "1957"
+}]
